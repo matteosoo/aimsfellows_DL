@@ -21,3 +21,7 @@
 ## 課前問卷調查
 - https://forms.gle/x6YxAHtumAZHF5hS6
 
+## 課程討論區
+- 若對於本課程有問題，歡迎使用網頁上方的 `Issues` 功能。
+    - 若尚無Github帳號，請先參考[註冊Github帳號](https://github.com/join)。
+
