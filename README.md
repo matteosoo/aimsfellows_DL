@@ -1,7 +1,14 @@
 # AIMS fellows Deep Learning Course
 
-## 上課時間
-2020/09/16~2020/11/11
+## 教材連結
+- https://github.com/matteosoo/aimsfellows_DL
+- ![](https://i.imgur.com/nlR4hEM.png)
+
+
+## 上課地點時間
+- 授課日期：09/16 (三)-11/11(三)
+- 授課時段：18:30-21:20
+- 授課教室：工程一館904教室
 
 ## 課程簡介
 深度學習理論
