@@ -17,3 +17,7 @@
 3.   Convolution neural networks
 4.   Recurrent neural networks
 5.   Restricted Boltzmann machines
+
+## 課前問卷調查
+- https://forms.gle/x6YxAHtumAZHF5hS6
+
