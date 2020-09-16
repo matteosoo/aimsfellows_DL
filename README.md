@@ -1,6 +1,6 @@
 # AIMS fellows Deep Learning Course
 
-## 教材連結
+## 課程網站連結
 - https://github.com/matteosoo/aimsfellows_DL
 - ![](https://i.imgur.com/nlR4hEM.png)
 
