@@ -25,14 +25,14 @@
 - 若對於本課程有問題，歡迎使用網頁上方的 `Issues` 功能。
     - 若尚無Github帳號，請先參考[註冊Github帳號](https://github.com/join)。
 
-## Project Schedule (暫定)
+## Project Schedule
 
-| TA course | Date  | Contents                 | Remarks      |
-| --------- | ----- |:------------------------ | ------------ |
-| 01        | 10/07 | Google Colab與Python教學 | 記得攜帶筆電 |
-| 02        | 10/14 | 爬蟲教學                 | 指派作業1    |
-| 03        | 10/21 | CNN教學 (quick draw介紹) | 指派作業2    |
-| 04        | 11/11 | Project demo             | 繳交作業1與2 |
+| TA course | Date  | Contents                 | Remarks      | Code Example                                                                                                                                                                               |
+| --------- | ----- |:------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 01        | 10/07 | Google Colab與Python教學 | 記得攜帶筆電 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteosoo/aimsfellows_DL/blob/master/project/AIMS_TA_course01.ipynb) |
+| 02        | 10/14 | 爬蟲教學                 | 指派作業1    |                                                                                                                                                                                            |
+| 03        | 10/21 | CNN教學 (quick draw介紹) | 指派作業2    |                                                                                                                                                                                            |
+| 04        | 11/11 | Project demo             | 繳交作業1與2 |                                                                                                                                                                                            |
 
 ## 參考書
 - Keras
