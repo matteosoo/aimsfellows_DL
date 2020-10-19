@@ -18,7 +18,7 @@ Goal: 使用自行蒐集(爬下)的dataset, 進行quick draw model的CNN classif
 ### main.js 中修正路徑
 main.js中必須修正2個部分才能成功將你訓練的新模型放入(請找“**//**”註解部分)
 1. load the class names
-```javascript=
+```javascript
 /*
 load the class names
 */
@@ -35,7 +35,7 @@ async function loadDict() {
 }
 ```
 2. load the model
-```javascript=
+```javascript
 /*
 load the model
 */
@@ -61,7 +61,7 @@ async function start(cur_mode) {
 > [name=TAs] 可以直接control (or command) F 搜尋28比較快找到
 
 1. 第10行, 28\*28改300\*300
-```javascript=
+```javascript
 /*
 preprocess the data
 */
@@ -84,7 +84,7 @@ function preprocess(imgData) {
 }
 ```
 2. 第12行, 28\*28改300\*300
-```javascript=
+```javascript
 /*
 load the model
 */
