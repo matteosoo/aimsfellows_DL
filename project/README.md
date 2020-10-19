@@ -10,7 +10,9 @@ Goal: 使用自行蒐集(爬下)的dataset, 進行quick draw model的CNN classif
         - 除了模型架構和精準度等客觀評比外，可以寫下project或課堂所學、嘗試改進部分、所遇到問題等...
         - **2020/11/11 (Wed.) 23:59 written report deadline**, 請上傳到[此連結](https://drive.google.com/drive/folders/1DXw0QjBwAjUhwJH7aiJ03cdqHct3nhsJ?usp=sharing).
 
-    
+## Demo
+![image](https://github.com/matteosoo/aimsfellows_DL/blob/master/project/sketcher_template/demo.gif)
+
 ## Pipeline
 ![](https://i.imgur.com/Y3y0lMR.png)
 
