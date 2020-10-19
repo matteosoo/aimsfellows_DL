@@ -110,6 +110,6 @@ async function start(cur_mode) {
 - Quick draw project reference
     - step by step: https://medium.com/tensorflow/train-on-google-colab-and-run-on-the-browser-a-case-study-8a45f9b1474e
     - github code: https://github.com/zaidalyafeai/zaidalyafeai.github.io/tree/master/sketcher
-    - demo page: https://zaidalyafeai.github.io/sketcher/\:https://www.tensorflow.org/js/tutorials/setup
+    - demo page: https://zaidalyafeai.github.io/sketcher/
 
 ###### tags: `AIMS`
