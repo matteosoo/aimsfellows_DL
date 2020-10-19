@@ -1,20 +1,31 @@
 # Project
 Goal: 使用自行蒐集(爬下)的dataset, 進行quick draw model的CNN classifier應用。
-- Assignment: 根據TAs所給之ptt熱門文章標題分配，訓練一個繁體中文手寫辨識模型，並於11/11上課日進行簡單的網頁成果展示。
+- Assignment: 根據TAs所給之ptt熱門文章標題分配，訓練一個**繁體中文手寫辨識模型**，並於11/11上課日進行簡單的網頁成果展示。
 - Score assessment: 
     - - [x] 30%: 能夠將model訓練並存為(.h5)模型
     - - [x] 20%: 能夠從(.h5)模型轉為tensorflow.js支持格式並在網頁demo
     - - [x] 10%: 精準度至少85%(?)以上
     - - [ ] 40%: written report
         - 2頁(±0.5頁)a4, 形式不拘
-        - 除了模型架構和精準度等客觀評比外，可以寫下project或課堂所學、嘗試改進部分、所遇到問題)
-        - 2020/11/11 (Wed.) 23:59 written report deadline, 請上傳到[此連結](https://drive.google.com/drive/folders/1DXw0QjBwAjUhwJH7aiJ03cdqHct3nhsJ?usp=sharing).
+        - 除了模型架構和精準度等客觀評比外，可以寫下project或課堂所學、嘗試改進部分、所遇到問題等...
+        - **2020/11/11 (Wed.) 23:59 written report deadline**, 請上傳到[此連結](https://drive.google.com/drive/folders/1DXw0QjBwAjUhwJH7aiJ03cdqHct3nhsJ?usp=sharing).
 
     
 ## Pipeline
 ![](https://i.imgur.com/Y3y0lMR.png)
 
-## sketcher project 補充說明
+## sketcher_template project說明
+### 如何下載?
+要從Github把"sketcher_template"整個資料夾下載，可以使用[downgit](https://minhaskamal.github.io/DownGit/#/home)工具，把連結貼上就會幫你打包下載了。
+### 如何使用?
+如上圖pipeline所示，這個project實作過程分為兩個階段
+1. Colab
+    - 請把(.ipynb)的檔案上傳到你的雲端硬碟
+    - 並配合使用你分配到的訓練資料
+    - 完成模型訓練，並轉換為tensorflowjs支持格式
+1. On the browser
+    - 其餘的檔案，參照xampp的安裝教學放入
+    - 最後，把你的model用apache架站或PyCharm的方法show出demo結果
 ### main.js 中修正路徑
 main.js中必須修正2個部分才能成功將你訓練的新模型放入(請找“**//**”註解部分)
 1. load the class names
