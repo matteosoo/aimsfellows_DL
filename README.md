@@ -35,6 +35,7 @@
 | 04        | 11/11 | Project demo             | demo & written report | None                                                               |
 
 - 03\*: 範例Colab程式為了略過大量.npy下載時間，請參照這個👉🏻 [連結🔗](https://drive.google.com/drive/folders/1x2-rWyApPW_NedJ5g2Jk5JHPXAndbyA-?usp=sharing)
+> [name=TAs]updated on 10/22: 關於10/21上課日無法順利執行完整個範例code的同學，助教已經將上面的 👉🏻 連結🔗 更改為read only權限，並且重新更新data資料夾下的資料集，基本上code沒有問題，只是資料集有點更動到而出錯。同學可以順著範例內程式執行，並執行其中的download()函式(自行創建一個空data資料夾而不用捷徑的方式)，只是需等待一點下載時間。
 
 ## 參考書
 - Keras
