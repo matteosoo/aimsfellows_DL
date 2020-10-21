@@ -31,8 +31,10 @@
 | --------- | ----- |:------------------------ | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01        | 10/07 | Google Colab與Python教學 | 記得攜帶筆電          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matteosoo/aimsfellows_DL/blob/master/project/AIMS_TA_course01.ipynb)     |
 | 02        | 10/14 | 爬蟲教學                 | 記得攜帶筆電          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MnjLd5jrsNfF6VupbiG0pk8SWLAf0Ln2?usp=sharing)                            |
-| 03        | 10/21 | CNN教學 (quick draw介紹) | 指派作業              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/zaidalyafeai.github.io/blob/master/sketcher/Sketcher.ipynb) |
-| 04        | 11/11 | Project demo             | demo & written report | None                                                                                                                                                                                           |
+| 03*       | 10/21 | CNN教學 (quick draw介紹) | 指派作業              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zaidalyafeai/zaidalyafeai.github.io/blob/master/sketcher/Sketcher.ipynb)  |
+| 04        | 11/11 | Project demo             | demo & written report | None                                                               |
+
+- 03\*: 範例Colab程式為了略過大量.npy下載時間，請參照這個👉🏻 [連結🔗](https://drive.google.com/drive/folders/1x2-rWyApPW_NedJ5g2Jk5JHPXAndbyA-?usp=sharing)
 
 ## 參考書
 - Keras
