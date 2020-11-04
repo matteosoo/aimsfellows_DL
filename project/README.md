@@ -2,9 +2,11 @@
 Goal: 使用自行蒐集(爬下)的dataset, 進行quick draw model的CNN classifier應用。
 - Assignment: 根據TAs所給之ptt熱門文章標題分配，訓練一個**繁體中文手寫辨識模型**，並於11/11上課日進行簡單的網頁成果展示。
 - Score assessment: 
-    - - [x] 30%: 能夠將model訓練並存為(.h5)模型
+    - - [x] ~~30%~~ 20%: 能夠將model訓練並存為(.h5)模型 `updated on 11/04 19:00`
     - - [x] 20%: 能夠從(.h5)模型轉為tensorflow.js支持格式並在網頁demo
     - - [x] 10%: 精準度至少85%(?)以上
+    - - [x] 10%: presentation `updated on 11/04 19:00`
+        - 請把自己的模型精確度成果, demo網頁, 自己改進或bonus精進部分在8-10 min用任何方式呈現。
     - - [ ] 40%: written report
         - 2頁(±0.5頁)a4, 形式不拘
         - 除了模型架構和精準度等客觀評比外，可以寫下project或課堂所學、嘗試改進部分、所遇到問題等...
